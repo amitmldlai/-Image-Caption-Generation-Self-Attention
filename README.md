@@ -7,3 +7,4 @@ c) Self-Attention layer to focus on specific part
 d) Concatenate layer for merging the image and text feature vectors
 3) Model is trained for 70 epochs with adam optimizer and we got an accuracy of >70%
    (which is an improvement of >23% from the previous, simple Encoder Decoder model.
+![image](https://user-images.githubusercontent.com/100623606/172682322-f6b26e30-bb78-4569-a07f-03984913b5e1.png)
